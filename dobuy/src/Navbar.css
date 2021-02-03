@@ -1,0 +1,15 @@
+.nav{
+    background-color:rgb(12, 85, 49);
+    position: sticky;
+    top: 0;
+    padding:1px;
+}
+.mr-auto{
+    display:flex;
+    padding:2px;
+    
+
+}
+.name{
+    color:rgb(204, 186, 186);
+    }

@@ -1,0 +1,10 @@
+.container{
+    display:flex;
+    flex-direction:row;
+    padding:30px;
+}
+.float-end{
+    margin-left:700px;
+  
+
+}

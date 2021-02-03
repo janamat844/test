@@ -1,0 +1,27 @@
+.imgsection{
+   
+    display:flex;
+    flex-direction: row;
+}
+.one{
+    margin-top:70px;
+    display:flex;
+    flex-direction: column;
+}
+.sections{
+    align-items: center;
+    display:flex;
+    flex-direction: row;
+    margin-left:20px;
+    
+}
+.image{
+    margin-top:70px;
+    border:1px solid black;
+    margin-left:70px;
+    block-size: 550px;
+    margin-right: 20px;
+}
+.buttons{
+    padding:10px;
+}
