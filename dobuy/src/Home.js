@@ -20,7 +20,7 @@ function Home() {
         <Carousel/>
         <Photos/>
         <Gallery/>
-        {LoggedIn===false&&<Form/>}
+        {LoggedIn==false&&<Form/>}
         <Footer/>
         </div>
        
